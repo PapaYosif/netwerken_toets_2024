@@ -6,3 +6,4 @@ Het SQL script om de tabel te maken staat in de backup directory. Character set 
 Deze site is lokaal getest op PHP versie 8.3.3
 
 # netwerken_toets_2024
+# netwerken_toets_2024
